@@ -20,12 +20,12 @@
   "license": "MIT",
   "dependencies": {
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native": "0.55",
     "react-native-popup-dialog": "^0.16.6"
   },
   "peerDependency": {
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+    "react-native": "0.55"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
